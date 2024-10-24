@@ -1,0 +1,1 @@
+This is an e-commerce application. I have developed a rest Api for this project. Here I used JWT token for User Authentication. There are two endpoints. One is for user registration and another is for order placement. 
